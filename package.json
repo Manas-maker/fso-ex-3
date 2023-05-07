@@ -1,0 +1,19 @@
+{
+  "name": "fso-ex-3",
+  "version": "1.0.0",
+  "description": "fso submissions for part 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Manas-maker/fso-ex-3.git"
+  },
+  "author": "manas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manas-maker/fso-ex-3/issues"
+  },
+  "homepage": "https://github.com/Manas-maker/fso-ex-3#readme"
+}
