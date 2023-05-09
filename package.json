@@ -4,6 +4,8 @@
   "description": "fso submissions for part 3",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "node_modules/.bin/nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Manas-maker/fso-ex-3/issues"
   },
-  "homepage": "https://github.com/Manas-maker/fso-ex-3#readme"
+  "homepage": "https://github.com/Manas-maker/fso-ex-3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
